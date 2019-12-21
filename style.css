@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    width:100%;
+    height:auto;
+    padding-top:130px;
+    margin: auto;
+ }
+
+ .logo {
+     margin-top:66px;
+     border: 1px;
+
+ }
+
+ input {
+     width:400px;
+     height:30px;
+     margin-bottom:15px;
+
+ }
+
+ button {
+    background-color:#f2f2f2;
+    border:none;
+    padding:10px;
+    margin:10px;
+    color:#757575;
+    font-size:10pt;
+    font-weight:bold;
+    font-family:arial;
+    border-radius: 2px;
+  }
